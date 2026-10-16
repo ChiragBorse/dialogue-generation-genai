@@ -5,7 +5,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-An implementation of an interactive multi-turn dialogue generation system developed as part of **Generative AI Practical Assignment 11**.
+An implementation of an interactive multi-turn dialogue generation system developed as part of **Generative AI **.
 
 The system leverages Microsoft's pretrained autoregressive language model **DialoGPT** (`microsoft/DialoGPT-medium`) to generate coherent, context-aware conversational responses in real-time.
 
