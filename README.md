@@ -12,7 +12,7 @@ The system leverages Microsoft's pretrained autoregressive language model **Dial
 ---
 
 ## 📌 Problem Statement
-**Assignment 11:** Develop applications for text generation tasks such as dialogue generation using trained Generative AI models.
+**Question or Task:** Develop applications for text generation tasks such as dialogue generation using trained Generative AI models.
 
 ---
 
